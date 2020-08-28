@@ -11,7 +11,8 @@ Check out the docs provided !! :point_up::point_up::point_up:
   --version-all: Try every single probe (intensity 9)
   --version-trace: Show detailed version scan activity (for debugging)
 
-# SMB is a File Server protocol. Its primary purpose is to allow multiple users to read and write from the same file that is stored only on the File Server.
+# SMB is a File Server protocol. 
+Its primary purpose is to allow multiple users to read and write from the same file that is stored only on the File Server.
 
 Using SMB means:
 
