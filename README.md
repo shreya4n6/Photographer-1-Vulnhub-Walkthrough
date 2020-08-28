@@ -5,7 +5,8 @@ Check out the docs provided !! :point_up::point_up::point_up:
 
 # Enjoyyyyyy !! :smiley::smiley:
 
-# nmap -sV : -sV: Probe open ports to determine service/version info
+# nmap -sV :
+Probe open ports to determine service/version info
   --version-intensity <level>: Set from 0 (light) to 9 (try all probes)
   --version-light: Limit to most likely probes (intensity 2)
   --version-all: Try every single probe (intensity 9)
