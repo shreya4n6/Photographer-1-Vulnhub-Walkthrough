@@ -66,4 +66,4 @@ There is no way to completely block reverse shells. You can only make it more di
 - Spawn a process, and connect its controlling terminal with the current process's standard io.
 
 ### **THANK YOU** :v:
-![Successful Completion Screenshot](https://github.com/MoonPengu/Funbox-Vulnhub-Walkthrough/blob/master/new.png)
+![Successful Completion Screenshot](https://github.com/MoonPengu/Photographer-1-Vulnhub-Walkthrough/blob/master/proof.JPG)
