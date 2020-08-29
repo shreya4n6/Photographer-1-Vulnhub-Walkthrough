@@ -22,7 +22,7 @@ Its primary purpose is to allow multiple users to read and write from the same f
 - Moreover, the smbclient command is useful for both accessing files on a remote Microsoft Network or Samba server, and for testing the Samba services on your own server.
 - To connect to your server’s own Samba services from the command line as a test, enter the following command, where share is the name of the share you want to connect to (either a user’s login name or the word "root") and username is the username to log in as:
 
-**> smbclient "\\localhost\share" -U username** :point_left:
+### **> smbclient "\\localhost\share" -U username** :point_left:
 
 ## Why not Ftp :grey_question: We could have used ftp in place of smbclient.
 FTP is a File Transfer protocol. Its primary purpose is to let users copy an entire file from one computer to another.
